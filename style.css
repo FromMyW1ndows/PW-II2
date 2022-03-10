@@ -1,0 +1,19 @@
+.azul {
+    color: navy;
+    font-size: 14pt;
+    font-family: fantasy;
+}   
+
+.red {
+    color: red;
+    font-size: 13pt;
+    font-family: helvetica;
+}
+
+.fonte12 {
+    font-size: 12pt;
+}
+
+.fonte14 {
+    font-size: 14pt;
+}
